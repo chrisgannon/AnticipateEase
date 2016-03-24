@@ -6,7 +6,7 @@ It has 3 eases - easeIn, easeOut and easeInOut.
 
 E.g. 
 
-TweenMax.to('#el, {
+TweenMax.to('#el', {
   x:200,
   ease:Anticipate.easeIn
 })
